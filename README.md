@@ -5,15 +5,15 @@ To write a C# program to print the pascal triangle
 
 ## Algorithm:
 ## step1:
-1.Start
+Start
 ## step2:
-2.Declare variables rows,val,i,j,blank
+Declare variables rows,val,i,j,blank
 ## step3:
-3.Initialize the value of variables, i=0,j=0,val=1
+Initialize the value of variables, i=0,j=0,val=1
 ## step4:
-4.Enter the limit
+Enter the limit
 ## step5:
-5.using for loop printing " " when i&j==0 and using for loop applying the concept of pascal triangle
+using for loop printing " " when i&j==0 and using for loop applying the concept of pascal triangle
 ## Program:
 ```
 using System;
